@@ -32,6 +32,6 @@ To run it locally, open `web/index.html`, or serve the `web` folder with any sta
 
 ## Credits
 
-Created by **Johann Lijauco**. Inspired by a game jam project from October 2023, where Johann was the team's project manager. This version is a full redesign with new art, sound, and code.
+Created by **Johann Lijauco**. Pong Reimagined started as our team's game jam entry in October 2023, where Johann was the project manager. The concept is the team's own; this version is a solo redesign with new art, sound, gameplay, and code.
 
 Uses the [Press Start 2P](https://fonts.google.com/specimen/Press+Start+2P) font by CodeMan38 (SIL Open Font License).
